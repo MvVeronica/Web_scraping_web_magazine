@@ -46,11 +46,11 @@ Reload the webpage and find the requests to images that are the pages of the web
 </center>
 
 Note, that pages differ from each other with the last symbols - number of page
->https://catalog-n.com/images/pitstop12/pitstop-8-2023- **01** .jpg  
-https://catalog-n.com/images/pitstop12/pitstop-8-2023- **02** .jpg  
+>https://catalog-n.com/images/pitstop12/pitstop-8-2023-01.jpg  
+https://catalog-n.com/images/pitstop12/pitstop-8-2023-02.jpg  
 ...  
-https://catalog-n.com/images/pitstop12/pitstop-8-2023- **11** .jpg  
-https://catalog-n.com/images/pitstop12/pitstop-8-2023- **12** .jpg
+https://catalog-n.com/images/pitstop12/pitstop-8-2023-11.jpg  
+https://catalog-n.com/images/pitstop12/pitstop-8-2023-12.jpg
 
 Use the common part of **URL** as the constant.  
 **! Attention, in this case there is the situation, where pages [1;9] requeres zero [0] usage in front of them.**
